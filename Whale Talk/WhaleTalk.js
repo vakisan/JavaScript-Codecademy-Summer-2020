@@ -14,6 +14,8 @@ let whaleSound = [];
 let i = 0;
 let j = 0;
 
+//I used nested while loops to practice while loops usage as i felt it is more complex than for loops. just for practice but for loops would have been appropriate.
+
 while (i < input.length) {
     let j = 0;
     while (j < vowels.length) {
