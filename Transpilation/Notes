@@ -1,0 +1,15 @@
+Learned about how to use npm with babel commands.
+
+i did extra resaerch into addiotional commands flags such as:
+
+-d for directory routing transiplation
+-D for devDependency
+--save-dev -save module to devdependcy
+--save save to normal depency for runtime uses
+run 
+npm init creates pacakge.json
+--yes used with init to autofill json file.
+npm install moduleName - will install module to node_modules folder
+npm install babel-preset-env -D will add 
+npm install babel-cli -D will all all babel nde packages to node_modules folder.
+touch .babelrc to set versions of transiplation from and to
